@@ -1,0 +1,428 @@
+  .about{
+    background-image: url(image.jpg/aboutbanner.jpg);
+    height:500px;
+    background-repeat: no-repeat;
+  }
+
+  .about2{
+    background-image: url();
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-left: 60%;
+  }
+
+  #h1{
+    padding-top: 140px;
+    padding-left: 100px;
+  }
+
+  #paragraph{
+    padding-left: 130px;
+  }
+
+  .button{
+    border-radius: 50px;
+    padding: 15px;
+    color: white;
+    background-color: rgba(32, 32, 125, 0.804);
+  }
+
+  .country-img{
+    padding-left: 50px;
+    float: left;
+  }
+
+  .Progress{
+    color: rgba(25, 25, 95, 0.752);
+  }
+
+  .paragraph1{
+    color: black;
+  }
+
+ .image1{
+  float: left;
+  margin-left: 50px;
+ }
+
+ .image2{
+  float: left;
+  margin-left: 50px;
+  margin-top: 30px;
+ }
+
+ .image4{
+  float: left;
+  margin-left: 70px;
+  margin-top: 60px;
+ }
+
+ .image5{
+  float: left;
+  margin-left: 70px;
+  margin-top: 40px;
+ }
+
+ .image6{
+  float: left;
+  margin-left: 70px;
+  margin-top: 40px;
+ }
+
+ .image7{
+  float: left;
+  margin-left: 70px;
+  margin-top: 40px;
+ }
+
+ .image8{
+  float: left;
+  margin-left: 70px;
+  margin-top: 40px;
+ }
+
+ .image9{
+  float: left;
+  margin-left: 70px;
+  margin-top: 40px;
+ }
+
+
+ #clients{
+  text-align: center;
+  margin-top: 50px;
+ }
+
+ .c1{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c2{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c3{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c4{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c5{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c6{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c7{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c8{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c9{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c10{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c11{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c12{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c13{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c14{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c15{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c16{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c17{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c18{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c19{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c20{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c21{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c22{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c23{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c24{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c25{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c26{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c27{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c28{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c29{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c30{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c31{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c32{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c33{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c34{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c35{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c36{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c37{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c38{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c39{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c40{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c41{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c42{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c43{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c44{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c45{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c46{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c47{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+ .c48{
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+ }
+
+.Customers{
+  text-align: center;
+  margin-top: 100px;
+}
+
+.slide1{
+  float: left;
+  margin-left: 40px;
+  margin-top: 50px;
+  padding: 15px;
+}
+
+.slide2{
+  float: left;
+  margin-left: 60px;
+  margin-top: 50px;
+  padding: 15px;
+}
+
+.slideimg{
+  border-radius: 50%;
+  margin-left: 160px;
+}
+
+.slide-btn{
+  border: ;
+  border-radius: 50%;
+  padding: 20px;
+  background-color: white;
+}
+
+#footer{
+  color: white;
+  background-color:cadetblue ;
+}
+
+#footer2{
+  color: whitesmoke;
+  background-color: rgb(20, 70, 73);
+}
+
+#footer3{
+  color: white;
+  background-color: rgb(13, 54, 50);
+}
